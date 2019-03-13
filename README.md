@@ -1,0 +1,3 @@
+# 2nd-website
+slightly different code than the 1st website....baby steps.....
+Just messing around with the code and building on from what I've learned in Web Dev class
